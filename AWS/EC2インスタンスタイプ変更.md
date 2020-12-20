@@ -10,4 +10,4 @@
 ※ネットワークアダプターが変更して、DNS設定が削除される可能性あるので、要確認
 
 ### メリット/デメリット
-![image](https://github.com/nobeno/til/issues/3#issue-771578469)
+![image](https://user-images.githubusercontent.com/50900163/102713337-f1c6be80-430a-11eb-8bdb-09879d395dc5.png)
